@@ -19,3 +19,13 @@ body{
 .bg-image h3{
     font-size: 5em;
 }
+
+@media only screen and (max-width: 600px) {
+    .bg-image h1{
+        font-size: 6em;
+    }
+    
+    .bg-image h3{
+        font-size: 2em;
+    }
+}
